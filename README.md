@@ -6,10 +6,6 @@ Welcome to the SPOJ Solutions repository! This repository contains my solutions 
 
 The purpose of this repository is to share my own solutions to various SPOJ problems. By sharing these solutions, I hope to contribute helpful resources and showcase my problem-solving skills.
 
-## Statement of Authenticity
-
-All solutions in this repository are my own work. I have solved each problem independently, by using some online resources like gfg, CF blogs, DMOJ etc. The code and explanations presented here are based on my understanding and efforts.
-
 ## How to Use This Repository
 
 - **Browsing Solutions**: You can browse the problem just by using the name of the file.
